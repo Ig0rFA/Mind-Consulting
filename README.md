@@ -17,4 +17,6 @@
 2- Acompanhamento diário dos custos por etapa em andamento, auxiliando as áreas e identificando possíveis problemas rapidamente.
 
 ## ETAPA 5:
-1-Criar a documentação (DATABOOK) do projeto final, com a descrição de todos os acertos, erros e contenções, bem como, suas respectivas tomadas de decisão, para futura rastreabilidade e material de consulta posterior. 
+1-Criar a documentação (DATABOOK) do projeto final, com a descrição de todos os acertos, erros e contenções, bem como, suas respectivas tomadas de decisão, para futura rastreabilidade e material de consulta posterior.
+
+![img](https://github.com/Ig0rFA/Mind-Consulting/blob/main/MindGroup.png)
