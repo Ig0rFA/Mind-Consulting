@@ -2,6 +2,7 @@
 
 ## ETAPA 1:
 1-Abertura do TAP (Termo de Abertura de Proejto), com levantamento dos objetivos do projeto, necessidades do cliente, áreas envolvidas, riscos e benefícios quantitativos e qualitativos.
+2- Cadastro do projeto e etapas em ferramentas como Planner, Trello ou outros, para controle de prazos e gestão de custos e pessoas.
 
 ## ETAPA 2:
 1-Levantamento das estimativas de custo, através da análise de projetos anteriores e/ou similares.
